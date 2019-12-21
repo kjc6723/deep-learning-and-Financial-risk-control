@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Oct 15 00:33:10 2019
-
+RNN时序建模
 @author: kjc
 """
 
